@@ -1,3 +1,4 @@
+layout: page
 title: About Me
 ---
 ![image](assets/images/Campbell_headshot.jpg){:style="float:right; width:400px; margin-left:30px;"}
