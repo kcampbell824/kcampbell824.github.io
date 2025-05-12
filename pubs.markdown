@@ -4,9 +4,9 @@ title: Publications
 permalink: /publications/
 ---
 ### 2024
-Matthew A Reyna, Deepanshi, James Weigle, Zuzana Koscova, Kiersten Campbell, Salman Seyedi, Andoni Elola, Ali Bahrami Rad, Amit J Shah, Neal K Bhatia, Gari D Clifford, Reza Sameni. Digitization and Classification of ECG Images: The George B. Moody PhysioNet Challenge 2024. Computing in Cardiology, 2024. [full text](https://www.cinc.org/archives/2024/pdf/CinC2024-011.pdf)
+Matthew A Reyna, Deepanshi, James Weigle, Zuzana Koscova, **Kiersten Campbell**, Salman Seyedi, Andoni Elola, Ali Bahrami Rad, Amit J Shah, Neal K Bhatia, Gari D Clifford, Reza Sameni. Digitization and Classification of ECG Images: The George B. Moody PhysioNet Challenge 2024. Computing in Cardiology, 2024. [full text](https://www.cinc.org/archives/2024/pdf/CinC2024-011.pdf)
 
-Matthew A. Reyna, Deepanshi, James Weigle, Zuzana Koscova, Kiersten Campbell, Kshama Kodthalu Shivashankara, Soheil Saghafi, Sepideh Nikookar, Mohsen Motie-Shirazi, Yashar Kiarashi, Salman Seyedi, Gari D. Clifford, Reza Sameni. ECG-Image-Database: A Dataset of ECG Images with Real-World Imaging and Scanning Artifacts; A Foundation for Computerized ECG Image Digitization and Analysis. arXiv (preprint), 2024. [full text](https://doi.org/10.48550/arXiv.2409.16612)
+Matthew A. Reyna, Deepanshi, James Weigle, Zuzana Koscova, **Kiersten Campbell**, Kshama Kodthalu Shivashankara, Soheil Saghafi, Sepideh Nikookar, Mohsen Motie-Shirazi, Yashar Kiarashi, Salman Seyedi, Gari D. Clifford, Reza Sameni. ECG-Image-Database: A Dataset of ECG Images with Real-World Imaging and Scanning Artifacts; A Foundation for Computerized ECG Image Digitization and Analysis. arXiv (preprint), 2024. [full text](https://doi.org/10.48550/arXiv.2409.16612)
 
 ### 2023
 **Kiersten Campbell\***, Niamh X, Cawley\*, Rachel Luke, et al. Identification of Cerebral Spinal Fluid Protein Biomarkers in Niemann-Pick Disease, type C1. Biomarker Research, 2023. \[\* = co-first author\]
